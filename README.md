@@ -1,0 +1,1 @@
+The project involved developing a Machine Learning model to classify iris flowers based on their features. Leveraging Python, scikit-learn, and TensorFlow, a robust solution capable of accurately categorizing iris species was made.
